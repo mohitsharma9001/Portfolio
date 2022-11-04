@@ -48,6 +48,18 @@ export const projects = [
     image: "./travelocity.png",
     gitlink: "https://github.com/mohitsharma9001/TravelCity-Clone",
     link: "https://travelcity-clone.netlify.app/",
+  },{
+    title: "Travelocity.com Clone",
+    subtitle:
+      "TECH STACK: ReactJS | Redux | JavaScript | JSON Server | Google Auth | Material-UI",
+    description:
+      "Travelocity.com is an online travel agency owned by Expedia Group. It has 12.4 million monthly unique visitors, making it the third most popular website owned by Expedia Group, after Expedia.com and Hotels.com.",
+    responsibility:
+      " Developed Hotel list Page Car list page,Car details  page and also develope sorting and filter functionality.",
+    team: " A cooperative Project worked by a group of 4 executed in 6 days.",
+    image: "./travelocity.png",
+    gitlink: "https://github.com/mohitsharma9001/TravelCity-Clone",
+    link: "https://travelcity-clone.netlify.app/",
   }
   
 ];
